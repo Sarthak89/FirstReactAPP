@@ -2,6 +2,7 @@
   "name": "helloworld",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Sarthak89.github.io/FirstReactAPP",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
