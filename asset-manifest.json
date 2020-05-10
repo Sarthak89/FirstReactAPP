@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Sarthak89/FirstReactAPP.git/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Sarthak89/FirstReactAPP.git/static/js/main.9552bc8a.chunk.js",
+    "main.js.map": "/Sarthak89/FirstReactAPP.git/static/js/main.9552bc8a.chunk.js.map",
+    "runtime-main.js": "/Sarthak89/FirstReactAPP.git/static/js/runtime-main.7d259bc6.js",
+    "runtime-main.js.map": "/Sarthak89/FirstReactAPP.git/static/js/runtime-main.7d259bc6.js.map",
+    "static/js/2.a0502e46.chunk.js": "/Sarthak89/FirstReactAPP.git/static/js/2.a0502e46.chunk.js",
+    "static/js/2.a0502e46.chunk.js.map": "/Sarthak89/FirstReactAPP.git/static/js/2.a0502e46.chunk.js.map",
+    "index.html": "/Sarthak89/FirstReactAPP.git/index.html",
+    "precache-manifest.a81ce1175c92ba6feeef2cbacd9f2e12.js": "/Sarthak89/FirstReactAPP.git/precache-manifest.a81ce1175c92ba6feeef2cbacd9f2e12.js",
+    "service-worker.js": "/Sarthak89/FirstReactAPP.git/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Sarthak89/FirstReactAPP.git/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a0502e46.chunk.js.LICENSE.txt": "/Sarthak89/FirstReactAPP.git/static/js/2.a0502e46.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Sarthak89/FirstReactAPP.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d259bc6.js",
+    "static/js/2.a0502e46.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.9552bc8a.chunk.js"
+  ]
+}
